@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hello, I'm Houda 👋
 
-<!--
-**HoudaMouttaqui/HoudaMouttaqui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔍 **Aspiring QA Engineer** | 💡 Passionate about Quality Assurance | 🚀 **Learning Automation Testing**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧑‍💻 About Me
+I am a detail-oriented QA enthusiast with a strong foundation in software testing methodologies, automation, and quality improvement. I enjoy finding bugs and ensuring that applications are functioning flawlessly. Currently, I am expanding my skills in test automation and continuous integration.
+
+- 🌱 **Currently Learning:** Automation with Selenium, JUnit, and TestNG
+- 🛠️ **Interested In:** Test automation, performance testing, API testing
+- 📫 **How to Reach Me:** [LinkedIn](https://www.linkedin.com/in/houdamouttaqui/) | [Email](mailto:houda.mtq2@gmail.com)
+
+
